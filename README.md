@@ -4,6 +4,16 @@ Autor: Nathan
 Este repositório é um guia prático de aprendizado em Python, criado para apoiar estudantes e iniciantes que desejam iniciar — ou aprofundar — seus conhecimentos na linguagem.
 O Python é atualmente uma das linguagens de programação mais utilizadas no mundo, presente em áreas como desenvolvimento web, automação, ciência de dados, inteligência artificial e DevOps. Assim como muitos estudantes da área, este material foi desenvolvido durante minha própria jornada de aprendizado, com o objetivo de organizar os conceitos de forma progressiva, clara e acessível.
 Aqui você encontrará conteúdos que vão desde o absoluto básico até tópicos mais avançados, sempre com foco em compreensão, legibilidade e boas práticas.
+ 
+Fontes de vídeo:
+- https://www.youtube.com/watch?v=-VeVq64Fgw0
+- https://www.youtube.com/watch?v=2uBrqwj70TQ
+- https://www.youtube.com/watch?v=EV7Idm_mkxo
+- https://www.youtube.com/watch?v=WexDtLkN77k
+
+Fontes de Texto:
+- https://github.com/arbackes/Livro_Python/blob/main/Aprendendo%20Python%20-%20um%20guia%20b%C3%A1sico%20de%20programa%C3%A7%C3%A3o.pdf
+- https://www.facom.ufu.br/~william/Disciplinas%202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf
 
 # 🎯 Objetivo
 
