@@ -132,37 +132,46 @@ PIP: Gerenciador de pacotes do Python
 Fundamentos
 
 “Explique a importância da identação no Python com exemplos práticos.”
+
 “Como o Python identifica automaticamente o tipo de uma variável?”
 
 Lógica
 
 “Transforme este problema em pseudocódigo antes de implementar em Python.”
+
 “Compare if/elif/else com outros mecanismos de decisão em programação.”
 
 Estruturas de Dados
 
 “Quando escolher listas em vez de tuplas?”
+
 “Explique um caso real de uso para dicionários.”
 
 Funções e Modularização
 
 “Qual a diferença entre parâmetros posicionais e opcionais?”
+
 “Explique escopo local e global com exemplos.”
 
 Avançado
 
 “Explique POO em Python usando uma analogia do mundo real.”
+
 “Demonstre o uso correto de try/except para validação de entrada.”
+
 “Explique como o with ajuda no gerenciamento de arquivos.”
+
 
 Estruturas de Dados
 
 “Quando escolher listas em vez de tuplas?”
+
 “Explique um caso real de uso para dicionários.”
 
 Funções e Modularização
 
 “Qual a diferença entre parâmetros posicionais e opcionais?”
+
 “Explique escopo local e global com exemplos.”
 
 Avançado
