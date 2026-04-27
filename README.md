@@ -162,7 +162,7 @@ Avançado
 “Explique como o with ajuda no gerenciamento de arquivos.”
 
 
-Estruturas de Dados
+</u>Estruturas de Dados</u>
 
 “Quando escolher listas em vez de tuplas?”
 
