@@ -155,4 +155,18 @@ Avançado
 “Demonstre o uso correto de try/except para validação de entrada.”
 “Explique como o with ajuda no gerenciamento de arquivos.”
 
-# 4️⃣ Estruturas de Dados
+Estruturas de Dados
+
+“Quando escolher listas em vez de tuplas?”
+“Explique um caso real de uso para dicionários.”
+
+Funções e Modularização
+
+“Qual a diferença entre parâmetros posicionais e opcionais?”
+“Explique escopo local e global com exemplos.”
+
+Avançado
+
+“Explique POO em Python usando uma analogia do mundo real.”
+“Demonstre o uso correto de try/except para validação de entrada.”
+“Explique como o with ajuda no gerenciamento de arquivos.”
