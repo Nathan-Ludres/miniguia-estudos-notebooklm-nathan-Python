@@ -1,12 +1,11 @@
-📘 Mini-Guia de Estudos – Python
-Do zero ao avançado
+📘 Mini-Guia de Estudos – Python do zero ao avançado
 Autor: Nathan
-📌 Sobre o projeto
+# 📌 Sobre o projeto
 Este repositório é um guia prático de aprendizado em Python, criado para apoiar estudantes e iniciantes que desejam iniciar — ou aprofundar — seus conhecimentos na linguagem.
 O Python é atualmente uma das linguagens de programação mais utilizadas no mundo, presente em áreas como desenvolvimento web, automação, ciência de dados, inteligência artificial e DevOps. Assim como muitos estudantes da área, este material foi desenvolvido durante minha própria jornada de aprendizado, com o objetivo de organizar os conceitos de forma progressiva, clara e acessível.
 Aqui você encontrará conteúdos que vão desde o absoluto básico até tópicos mais avançados, sempre com foco em compreensão, legibilidade e boas práticas.
 
-🎯 Objetivo
+# 🎯 Objetivo
 
 Introduzir a linguagem Python de forma progressiva
 Consolidar fundamentos essenciais de programação
@@ -14,7 +13,7 @@ Apresentar estruturas de dados, funções e POO
 Servir como material de consulta rápida (glossário) e roteiro de estudos
 
 
-🧭 Estrutura do conteúdo
+# 🧭 Estrutura do conteúdo
 O guia está dividido em três grandes partes:
 
 Fundamentos e conceitos técnicos (Glossário)
@@ -22,7 +21,7 @@ Resumo estruturado da jornada de aprendizado
 Progressão do simples ao avançado
 
 
-📚 Glossário de Conceitos em Python
+# 📚 Glossário de Conceitos em Python
 1️⃣ Fundamentos e Sintaxe
 
 
@@ -54,7 +53,7 @@ Conjunto de princípios que orientam a escrita de código limpo, simples e legí
 
 
 
-2️⃣ Variáveis e Tipos de Dados
+# 2️⃣ Variáveis e Tipos de Dados
 
 
 Variável
@@ -78,7 +77,7 @@ Valores lógicos: True ou False.
 
 
 
-3️⃣ Estruturas de Controle (Lógica)
+# 3️⃣ Estruturas de Controle (Lógica)
 
 
 Condicionais (if, elif, else)
@@ -101,7 +100,7 @@ continue: pula para a próxima iteração
 
 
 
-4️⃣ Estruturas de Dados
+# 4️⃣ Estruturas de Dados
 
 
 Lista (list)
@@ -128,7 +127,7 @@ Técnica para extrair partes de strings, listas ou tuplas usando índices.
 
 
 
-5️⃣ Funções e Modularização
+# 5️⃣ Funções e Modularização
 
 
 Função (def)
@@ -152,7 +151,7 @@ Gerenciador de pacotes do Python para instalar bibliotecas externas.
 
 
 
-6️⃣ Programação Orientada a Objetos (POO)
+# 6️⃣ Programação Orientada a Objetos (POO)
 
 
 Classe
@@ -176,7 +175,7 @@ Proteção de atributos usando modificadores (ex: __atributo).
 
 
 
-7️⃣ Tópicos Avançados
+# 7️⃣ Tópicos Avançados
 
 
 Tratamento de exceções (try / except)
@@ -196,7 +195,7 @@ Garante o fechamento automático de recursos, como arquivos.
 
 
 
-🧠 Resumo da Jornada de Aprendizado
+# 🧠 Resumo da Jornada de Aprendizado
 Este guia conduz o estudante por uma trajetória lógica de aprendizado, contemplando:
 
 Configuração do ambiente (Python, IDEs e Jupyter)
@@ -207,7 +206,7 @@ Programação Orientada a Objetos
 Tópicos avançados para aplicações reais e escaláveis
 
 
-✅ Considerações finais
+# ✅ Considerações finais
 Este material é ideal para:
 
 Estudantes iniciantes em programação
